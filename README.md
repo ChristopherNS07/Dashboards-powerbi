@@ -32,13 +32,13 @@ Qual o valor total arecadado por mês ?
 
 Qual o total de avaliações feitas ?
 
-Quantas avaliações foram feitas para o conteúdo oferecido pela escola ?
+Quantas avaliações foram feitas para o conteúdo oferecido pela escola por nivel de qualidade ?
 
-Quantas avaliações foram feitas aos docentes ?
+Quantas avaliações foram feitas aos docentes por nivel de qualidade ?
 
-Quantas avaliações foram feitas para a equipe pedagógica ?
+Quantas avaliações foram feitas para a equipe pedagógica por nivel de qualidade ?
 
-Quantas avaliações foram feitas para o material didádico ?
+Quantas avaliações foram feitas para o material didádico por nivel de qualidade ?
 
 Quantas avaliações foram feitas por região e qual a quantidade por qualidade ?
 ## 
