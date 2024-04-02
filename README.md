@@ -40,10 +40,11 @@ Quantas avaliações foram feitas para a equipe pedagógica ?
 
 Quantas avaliações foram feitas para o material didádico ?
 
-Qual o valor total arecadado por mês ?
+Quantas avaliações foram feitas por região e qual a quantidade por qualidade ?
+## 
+Antes de responder a essas perguntas, foi necessário fazer o upload do arquivo em excel (.xlsx) disponíbilizado pelo SENAI. Em seguida, foi realizado um tratamento nos dados (remoção de duplicatas, dados faltantes e correção de titulos ) e a criação da Star Schema para montar o esquema de relacionamentos, esta etapa é crucial para que o Power BI consiga estabelecer conexões entre os dados provenientes de tabelas distintas.
 
-Antes de responder a essas perguntas, é necessário que façamos o upload do arquivo em excel (.xlsx) disponível nesta pasta. Em seguida, foi realizado um tratamento nos dados (remoção de duplicatas) e criação da Star Schema para montar o esquema de relacionamentos, importante etapa para o Power BI conseguir relacionar os dados de diferentes tabelas.
+A partir daí podemos responder às perguntas. Os dashboards e o starschema estaram disponibilizados no projeto em suas pastas correspondentes.
 
-A partir daí podemos responder às perguntas. Acesse o arquivo em PDF para visualizar a Dashboard completa, com todos os visuais.
 
-E abaixo está a representação do esquema de relacionamentos.
+
