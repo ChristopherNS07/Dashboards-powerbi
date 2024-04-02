@@ -42,7 +42,7 @@ Quantas avaliações foram feitas para o material didádico por nivel de qualida
 
 Quantas avaliações foram feitas por região e qual a quantidade por qualidade ?
 ## 
-Antes de responder a essas perguntas, foi necessário fazer o upload do arquivo em excel (.xlsx) disponíbilizado pelo SENAI. Em seguida, foi realizado um tratamento nos dados (remoção de duplicatas, dados faltantes e correção de titulos ) e a criação da Star Schema para montar o esquema de relacionamentos, esta etapa é crucial para que o Power BI consiga estabelecer conexões entre os dados provenientes de tabelas distintas.
+Antes de responder a essas perguntas, foi necessário fazer o upload do arquivo em excel (.xlsx) disponíbilizado pelo SENAI. Em seguida, foi realizado um tratamento nos dados (remoção de duplicatas, dados faltantes e correção de titulos ), foram utilizadas funções dax para formular dados mais apurados e precisos para responder as questões, e foi feita a criação da Star Schema para montar o esquema de relacionamentos, esta etapa é crucial para que o Power BI consiga estabelecer conexões entre os dados provenientes de tabelas distintas.
 
 A partir daí podemos responder às perguntas. 
 Os dashboards e o star schema estaram disponibilizados no projeto em suas pastas correspondentes.
